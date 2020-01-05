@@ -1,0 +1,50 @@
+title: Network-based characterization of drug-protein interaction signatures with a space-efficient approach
+authors: Authors: Yasuo Tabei, Masaaki Kotera, Ryusuke Sawada and Yoshihiro Yamanishi
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0691-1
+
+title: GNE: a deep learning framework for gene network inference by aggregating biological information
+authors: Authors: Kishan KC, Rui Li, Feng Cui, Qi Yu and Anne R. Haake
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0694-y
+
+title: Fusing gene expressions and transitive protein-protein interactions for inference of gene regulatory networks
+authors: Authors: Wenting Liu and Jagath C. Rajapakse
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0695-x
+
+title: Boolean network modeling of β-cell apoptosis and insulin resistance in type 2 diabetes mellitus
+authors: Authors: Pritha Dutta, Lichun Ma, Yusuf Ali, Peter M.A. Sloot and Jie Zheng
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0692-0
+
+title: Ultrafast clustering of single-cell flow cytometry data using FlowGrid
+authors: Authors: Xiaoxin Ye and Joshua W. K. Ho
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0690-2
+
+title: Predicting disease-related phenotypes using an integrated phenotype similarity measurement based on HPO
+authors: Authors: Hansheng Xue, Jiajie Peng and Xuequn Shang
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0697-8
+
+title: Anti-TNF- αtreatment-related pathways and biomarkers revealed by transcriptome analysis in Chinese psoriasis patients
+authors: Authors: Lunfei Liu, Wenting Liu, Yuxin Zheng, Jisu Chen, Jiong Zhou, Huatuo Dai, Suiqing Cai, Jianjun Liu, Min Zheng and Yunqing Ren
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0698-7
+
+title: A fast and efficient count-based matrix factorization method for detecting cell types from single-cell RNAseq data
+authors: Authors: Shiquan Sun, Yabo Chen, Yang Liu and Xuequn Shang
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0699-6
+
+title: Identification of Hürthle cell cancers: solving a clinical challenge with genomic sequencing and a trio of machine learning algorithms
+authors: Authors: Yangyang Hao, Quan-Yang Duh, Richard T. Kloos, Joshua Babiarz, R. Mack Harrell, S. Thomas Traweek, Su Yeon Kim, Grazyna Fedorowicz, P. Sean Walsh, Peter M. Sadow, Jing Huang and Giulia C. Kennedy
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0693-z
+
+title: FCMDAP: using miRNA family and cluster information to improve the prediction accuracy of disease related miRNAs
+authors: Authors: Xiaoying Li, Yaping Lin, Changlong Gu and Jialiang Yang
+date: 5 April 2019
+pdf https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-019-0696-9
+
